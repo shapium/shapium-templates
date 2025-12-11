@@ -1,0 +1,2 @@
+# shapium-templates
+Generated scaffold.
